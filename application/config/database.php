@@ -40,8 +40,8 @@ $db['default']['password'] = "Sailormoon87.";
 $db['default']['database'] = "poslab";
 
 // The following values can probably stay the same.
-$db['default']['hostname'] = "localhost";
-$db['default']['dbdriver'] = "mysqli"; //Updated to latest driver.
+$db['default']['hostname'] = "194.62.55.115";
+$db['default']['dbdriver'] = "mysql"; //Updated to latest driver.
 $db['default']['dbprefix'] = "";
 $db['default']['pconnect'] = TRUE;
 $db['default']['db_debug'] = TRUE;
