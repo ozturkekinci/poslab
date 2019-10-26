@@ -35,9 +35,9 @@
 */
 
 // The following values will probably need to be changed.
-$db['default']['username'] = "kitchenl_pos";
-$db['default']['password'] = "Kitchen35";
-$db['default']['database'] = "kitchenl_pos";
+$db['default']['username'] = "ozturkekinci";
+$db['default']['password'] = "Sailormoon87.";
+$db['default']['database'] = "poslab";
 
 // The following values can probably stay the same.
 $db['default']['hostname'] = "localhost";
